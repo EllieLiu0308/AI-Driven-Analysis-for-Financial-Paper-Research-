@@ -43,18 +43,18 @@
             2. Strategy-specific prompts (e.g., "Describe how high-frequency trading strategies are adapted to minimize the impact of transaction costs")  
             3. Methodology-focused prompts (e.g., "Outline common methods for measuring and modeling transaction costs in portfolio management")  
             4. Trend analysis prompts (e.g., "Identify emerging trends in how investment firms are addressing transaction costs in the age of algorithmic trading")  
-      4. **Prompt Refinement**: Iterative process of testing prompts against a sample of papers to ensure they elicit relevant and comprehensive responses  
+      4. **Prompt Refinement:** Iterative process of testing prompts against a sample of papers to ensure they elicit relevant and comprehensive responses  
          1. **Initial Prompt Creation**  
             1. **Objective**: Start by formulating an initial prompt based on the specific financial question or concept you want the AI to analyze.  
             2. **Example**: If you're researching transaction costs, your initial prompt might be: "What are the key components of transaction costs in financial trading?"
 
-         2. ### **Input the Prompt into SciSpace Copilot:** Enter the prompt into SciSpace Copilot. This AI tool will process your prompt and search through relevant research papers, extracting information or directing you to specific sections that may provide an answer.
+         2. **Input the Prompt into SciSpace Copilot:** Enter the prompt into SciSpace Copilot. This AI tool will process your prompt and search through relevant research papers, extracting information or directing you to specific sections that may provide an answer.
 
-         3. ### **Review and Analyze the Results**
+         3. **Review and Analyze the Results**
 
-            1. ### **Objective**: Carefully examine the information that SciSpace provides. Evaluate whether the results are relevant and comprehensive.
+            1. **Objective**: Carefully examine the information that SciSpace provides. Evaluate whether the results are relevant and comprehensive.
 
-            2. ### **Assessment Criteria**:
+            2. **Assessment Criteria**:
 
                * **Relevance**: Are the papers or sections identified by SciSpace directly related to the concept you're interested in?  
                * **Completeness**: Does the AI retrieve all necessary components, or are there gaps in the information?  
