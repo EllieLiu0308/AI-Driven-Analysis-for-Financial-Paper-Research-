@@ -1,6 +1,6 @@
 **AI-Driven Analysis for Financial Paper Research** 
 
-1. **Goal:** The primary goal of this research is to leverage advanced AI and natural language processing techniques to analyze a large corpus of financial papers (approximately 200\) in order to comprehensively answer the questions asked by users. The research demonstrates the capability of AI models to understand and analyze complex financial concepts across multiple documents. To generate insights that might be difficult or time-consuming for human researchers to compile manually.  
+1. **Goal:** The primary goal of this research is to leverage advanced AI and natural language processing techniques to analyze a large corpus of financial papers (approximately 200\) in order to comprehensively answer the questions asked by users. The research demonstrates the capability of AI models to understand and analyze complex financial concepts across multiple documents. The process might be difficult or time-consuming for human researchers to compile manually.  
 2. **Exploration of Document Analysis Tools and Transition to Tada AI**  
    1. **Initial Approach and Tools Explored:** In the early stages of our research, we explored several popular libraries and tools for PDF parsing, text extraction, and document analysis:  
       1. PyPDF: A pure-python PDF library capable of extracting text from PDF files.  
